@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "network": "matsushiro.twingate.com",
+  "service_account_id": "11bfb888-d1b0-40b9-a521-19f8537c062a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvfOsHUN6uV5xF+Pz\nkQSbh7KavMujidj7+uVuQKSls1ShRANCAATrOcvkfe74O4bnvGWmM1wmnurYS8lq\nIhuSmAI+u2ndyNgym32SZ4SIsWgt23nesaN4BnYeu/7U6cLDnaGy+vjG\n-----END PRIVATE KEY-----",
+  "key_id": "_mHMWPWKhalsza9YNPvopm9ypv2-oEE0tYRKtv6PfdM",
+  "expires_at": null,
+  "login_path": "/api/v4/headless/login"
+}
